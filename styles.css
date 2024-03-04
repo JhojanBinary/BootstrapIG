@@ -1,0 +1,92 @@
+body{
+    background: black;
+}
+
+.navbar{
+ width: 100%;
+}
+
+.navbar-brand{
+    margin-left: 20px;
+}
+
+
+.btn-primary{
+    margin-left: auto;
+}
+.dropdown{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.btn-custom{
+    background-color: red;
+}
+
+.modal-body input{
+    height: 80px;
+    width: 100%;
+    border: solid gray 1px;
+    margin-bottom: 15px;
+}
+
+.modal-body i{
+    border: solid 1px rgba(0, 0, 0, 0.116);
+    background-color: rgba(128, 128, 128, 0.212);
+    border-radius: 4px;
+}
+
+.camb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.galeria{
+    display: flex;
+    justify-content: center;
+}
+
+.galeria img{
+    width: 530px;
+    height: 450px;
+    padding: 8px;
+    border: solid 1px white;
+
+}
+
+.galeria2{
+    width: 750px;
+    height: 650px;
+    border: 1px solid white;
+    margin: 20px auto;
+}
+
+.title{
+    display: flex;
+    color: white;
+}
+
+.title h1{
+    font-size: 22px;
+    margin-top: 8px;
+    margin-bottom: 12px;
+    margin-right: auto;
+    margin-left: 12px;
+}
+
+.title p{
+    margin-right: 12px;
+}
+.galeria2 img{
+    width: 747px;
+    height: 470px;
+}
+
+.galeria2 p{
+    color: white;
+    margin-left: 12px;
+    margin-top: 12px;
+}
+
