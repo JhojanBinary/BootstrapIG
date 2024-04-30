@@ -2,6 +2,12 @@
 # El Feed de Fotos de Instagram (con Bootstrap)
 <!-- endhide -->
 
+
+![image](https://github.com/JhojanBinary/BootstrapIG/assets/102551448/ea79f84c-bf00-476f-8ef2-1400c9b1f0c4)
+![image](https://github.com/JhojanBinary/BootstrapIG/assets/102551448/dabf5c09-6575-4c48-a237-e51b8ab5ae2b)
+![image](https://github.com/JhojanBinary/BootstrapIG/assets/102551448/0beb7f2c-e9cd-46c3-b6bd-c7d738ddc2d2)
+
+
 Como programador, tienes la tarea de replicar una imagen como un sitio web.
 
 ## 🌱 Cómo comenzar este proyecto
